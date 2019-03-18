@@ -8,13 +8,13 @@
 
 D3 is a great work for browser graphics, but its documentation lacks formal management, the official project page always shows the documentation of the latest updates, so here I collected all its documentation according to v4.13.0, the last version of 4.0, so that people like me who works on it would have a little ease.
 
-To use this project, you simplely have to open the [Complete API Reference](https://github.com/d3/d3/blob/master/API.md) or download it manually and save it to your local html file, so it will be handy at work.
+To use this project, you simplely have to open the [Complete API Reference](https://github.com/neuks/d3doc-4.13.0/blob/master/API.md) or download it manually and save it to your local html file, so it will be handy at work.
 
 Cheers!
 
 ## Resources
 
-* [Complete API Reference](https://github.com/d3/d3/blob/master/API.md)
+* [Complete API Reference](https://github.com/neuks/d3doc-4.13.0/blob/master/API.md)
 * [Release Notes](https://github.com/d3/d3/releases)
 * [Gallery](https://github.com/d3/d3/wiki/Gallery)
 * [Examples](https://bl.ocks.org/mbostock)
